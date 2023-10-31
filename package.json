@@ -1,0 +1,16 @@
+{
+  "name": "javascript-node",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "- Junior FullStack -> JavaScript Vanilla + Node.js\r * Sector: Análisis de datos, monitorizaciones, procesamiento de datos",
+  "main": "ejercicio1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.52.0"
+  }
+}
